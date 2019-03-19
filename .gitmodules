@@ -1,0 +1,3 @@
+[submodule "plugins\\cordova-plugin-MongoDB"]
+	path = plugins\\cordova-plugin-MongoDB
+	url = https://github.com/servbus/cordova-plugin-MongoDB.git
